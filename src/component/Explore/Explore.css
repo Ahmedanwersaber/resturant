@@ -1,0 +1,60 @@
+.explore{
+    background-color: transparent;
+    padding: 25px 0px ;
+    max-width: 100%;
+    height: auto;
+    overflow: hidden;
+    margin-top: 60px;
+
+}
+
+.explore h2{
+    font-size: 35px;
+    font-weight: 600;
+    width: 90%;
+    line-height: 50px;
+    margin: 10px 0px;
+    color:brown;
+    margin-top: 80px;
+
+}
+.explore p{
+    font-size: 16px;
+    line-height: 25px;  
+    color: #333;
+    margin-top: 15px;
+}
+.explore img{
+    max-width: 100%;
+    border-radius: 10px;
+}
+.explore button{
+    width: 140px;
+    height: 40px;
+    background-color: #a32c48;
+    border: 1px solid #a32c48;
+    box-sizing: border-box;
+    text-align: center;
+    color: #fff;
+    margin:20px;
+    text-transform: uppercase;
+    transition: .1s ease;
+}
+.explore button a{
+display: block;
+color: #fff;
+font-weight: 500;
+text-decoration: none;
+}
+.explore button:hover{
+   color: #a32c48;
+    background-color: #fff;
+}
+.explore ul{
+    padding: 0px;
+}
+.explore ul li{
+    list-style-type: none;
+   color: #333;
+   margin-top: 10px;
+}
